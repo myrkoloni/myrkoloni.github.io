@@ -21,7 +21,7 @@
 }
 
 body {
-    -webkit-animation: bgcolor 5s infinite;
-    animation: bgcolor 5s infinite;
+    -webkit-animation: bgcolor 0.5s infinite;
+    animation: bgcolor 0.5s infinite;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
